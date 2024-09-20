@@ -1,1 +1,1 @@
-# LA_Crime-Part1-2
+This analysis is divided into two parts. The first section focuses on the strategic cleaning and preparation of the data, organizing it to gain a clearer understanding of the task at hand. The second section is dedicated to visualizing the overall impact of the data. Please note that the notebook is split into two parts due to GitHub’s file size limitation of 30MB. # LA_Crime-Part1-2
